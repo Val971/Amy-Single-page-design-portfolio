@@ -1,7 +1,7 @@
 
 # Single-page design portfolio
 
-This is a solution to the Single-page design portfolio challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Single-page design portfolio challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/singlepage-design-portfolio-2MMhyhfKVo). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
 ## The challenge
