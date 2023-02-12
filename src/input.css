@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #fff7f0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  }
+  .spacingSizeTitle {
+    size: 56px;
+    line-height: 70px;
+  }
+  .spacingSizeSubTitle {
+    size: 40px;
+    line-height: 51px;
+  }
+  .spacingSizeText {
+    size: 32px;
+    line-height: 40px;
+  }
+  .spacingSizeParagrah {
+    size: 18px;
+    line-height: 28px;
+  }
+
+  .btn1 {
+    background: #030303;
+    border-radius: 28px;
+  }
+  .btn1:hover {
+    background: #755cde;
+    border-radius: 28px;
+  }
+  .btn2 {
+    background: #eb7565;
+    border-radius: 28px;
+  }
+  .btn2:hover {
+    background: #f6a560;
+    border-radius: 28px;
+  }
+  .arrowBtn {
+    background: #030303;
+  }
+  .arrowBtn2:hover {
+    background: #755cde;
+  }
+}
